@@ -2,5 +2,6 @@
 Year 2023 
 2nd Repocd gct-2023
 git status
-git add
-git commit
+git add README.md
+git commit -m "Message"
+git push origin main
